@@ -26,7 +26,7 @@ class UserAdmin(BaseUserAdmin):
 class UserProfileAdmin(admin.ModelAdmin):
     pass
 
-#my change
+#my changexyz
 
 
 admin.site.register(User, UserAdmin)
