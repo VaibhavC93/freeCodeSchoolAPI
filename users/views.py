@@ -19,6 +19,3 @@ class UserViewSet(viewsets.ModelViewSet):
     queryset = User.objects.all()
     serializer_class = UserSerializer
 
-
-
-# trying GitHub 1.1
